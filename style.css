@@ -4,14 +4,17 @@ body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
   background: #fff;
+ 
 }
 
 h1 {
   font-style: italic;
   color: #f0f0f0;
+  margin: 0;
+  text-alignment: center;
 }
 
 p{
   
-  margin: 0 -12 90 20px;
+  margin: -25px 50px 75px 100px; /* top, right, bottom, left */
 }
