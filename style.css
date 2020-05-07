@@ -3,10 +3,15 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  background: blue;
+  background: #fff;
 }
 
 h1 {
   font-style: italic;
   color: #f0f0f0;
+}
+
+p{
+  
+  margin: 0 -12 90 20px;
 }
